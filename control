@@ -1,0 +1,10 @@
+Package: com.muirey03.servicedump
+Name: servicedump
+Depends: 
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Tool to investigate mach services and the sandbox
+Maintainer: Muirey03
+Author: Muirey03
+Section: System
+Tag: role::hacker
